@@ -3,7 +3,7 @@ Simple program for download any instagram profile photo.
 
 You can download only ".exe" file and run or you can download or edit source code here.
 
-# USAGE
+### USAGE
 
 Just enter username and PRESS download. Doesn't work with "enter" or something.
 
